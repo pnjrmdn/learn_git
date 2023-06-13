@@ -1,2 +1,2 @@
 # git_learn
-test
+This is a repository dedicated to learning Git.
